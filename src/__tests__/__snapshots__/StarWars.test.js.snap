@@ -3,7 +3,7 @@
 exports[`<StarWars/> displays film info returned from API call: StarWars after data 1`] = `
 <body>
   <div>
-    <main>
+    <section>
       <ul>
         <li>
           <h2>
@@ -14,7 +14,7 @@ exports[`<StarWars/> displays film info returned from API call: StarWars after d
           </p>
         </li>
       </ul>
-    </main>
+    </section>
   </div>
 </body>
 `;
@@ -22,9 +22,9 @@ exports[`<StarWars/> displays film info returned from API call: StarWars after d
 exports[`<StarWars/> displays film info returned from API call: StarWars before data 1`] = `
 <body>
   <div>
-    <main>
+    <section>
       <ul />
-    </main>
+    </section>
   </div>
 </body>
 `;
